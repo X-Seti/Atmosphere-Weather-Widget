@@ -1,10 +1,13 @@
 # Atmosphere Widget v1.0 - X-Seti - Aug 14 2025
-A reimagined version of Weather Widget 2 — now with living atmosphere.
+A reimagined version of Weather Widget 2 — now with a living atmosphere.
+
+## Code here is for resources only  (Discontinued)
+This project has been replaced with https://github.com/X-Seti/Atmosphere
 
 ## Features
 - 🌦️ Dynamic wallpaper brightness (time + weather)
 - 🌧️❄️ Animated rain/snow with wind direction
-- ☀️ Gentle sun glint that drifts across screen
+- ☀️ Gentle sun glint that drifts across the screen
 - 🔊 Ambient sounds: hourly chime, wind, rain, snow (toggleable)
 - 💬 “Feels Like” tooltip that follows your mouse
 - 🖱️📱 Tap to expand on touchscreens
